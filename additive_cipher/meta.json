@@ -1,0 +1,7 @@
+{
+  "title": "Additive Cipher",
+  "description": "Encrypt messages by shifting each letter by a constant key value.",
+  "category": "Cryptography",
+  "difficulty": "Beginner",
+  "icon": "plus"
+}
