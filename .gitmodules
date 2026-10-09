@@ -4,3 +4,6 @@
 [submodule "shift_cipher"]
 	path = shift_cipher
 	url = https://github.com/Halfgods/Shift-cipher.git
+[submodule "sql_injection"]
+	path = sql_injection
+	url = https://github.com/ybhavesh-0915/sql-injection-webjs.git
