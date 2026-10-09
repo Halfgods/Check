@@ -1,0 +1,6 @@
+[submodule "additive_cipher"]
+	path = additive_cipher
+	url = https://github.com/Halfgods/Additive-cipher.git
+[submodule "shift_cipher"]
+	path = shift_cipher
+	url = https://github.com/Halfgods/Shift-cipher.git

@@ -1,1 +1,0 @@
-- Understand how shifting works on the alphabet\n- Encrypt and decrypt messages with a key\n- Analyze its weakness to brute-force attacks

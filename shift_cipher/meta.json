@@ -1,8 +1,0 @@
-{
-  "title": "Shift Cipher",
-  "description": "Break the Shift Cipher using brute-force and frequency analysis.",
-  "category": "Cryptography",
-  "difficulty": "Beginner",
-  "icon": "cat",
-  "github_url": "https://github.com/halfy/CyberLabs"
-}
